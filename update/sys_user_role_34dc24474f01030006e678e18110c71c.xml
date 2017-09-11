@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_124375_sumit.table1_user</name>
+        <suffix>table1_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-11 06:14:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>34dc24474f01030006e678e18110c71c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_124375_sumit.table1_user</sys_name>
+        <sys_package display_value="sumit test app" source="x_124375_sumit">7e85c2824f01030006e678e18110c731</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="sumit test app">7e85c2824f01030006e678e18110c731</sys_scope>
+        <sys_update_name>sys_user_role_34dc24474f01030006e678e18110c71c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-11 06:14:15</sys_updated_on>
+    </sys_user_role>
+</record_update>

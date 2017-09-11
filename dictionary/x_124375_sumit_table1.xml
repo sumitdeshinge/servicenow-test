@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="table1" max_length="40" name="x_124375_sumit_table1" type="collection">
+        <element label="firstname" max_length="30" name="firstname" type="string_full_utf8"/>
+        <element display="true" label="lastname" max_length="30" name="lastname" type="string_full_utf8"/>
+        <element label="rollnumber" max_length="3" name="rollnumber" type="integer"/>
+    </element>
+</database>

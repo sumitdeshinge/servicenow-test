@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="firstname" label="Firstname" language="en" table="x_124375_sumit_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>firstname</element>
+            <help/>
+            <hint/>
+            <label>Firstname</label>
+            <language>en</language>
+            <name>x_124375_sumit_table1</name>
+            <plural>Firstnames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-11 06:14:19</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>eddc24474f01030006e678e18110c773</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Firstname</sys_name>
+            <sys_package display_value="sumit test app" source="x_124375_sumit">7e85c2824f01030006e678e18110c731</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="sumit test app">7e85c2824f01030006e678e18110c731</sys_scope>
+            <sys_update_name>sys_documentation_x_124375_sumit_table1_firstname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-11 06:14:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
